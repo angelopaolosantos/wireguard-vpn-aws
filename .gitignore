@@ -1,0 +1,4 @@
+wireguard_key.pem
+terraform*
+.terraform*
+.aws_credentials/credentials

@@ -1,0 +1,7 @@
+[default]
+region=eu-north-1
+output=text
+
+[profile angelo]
+region=eu-north-1
+output=json

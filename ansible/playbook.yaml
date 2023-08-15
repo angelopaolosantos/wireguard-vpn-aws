@@ -1,0 +1,6 @@
+- name: Wireguard VPN setup
+  hosts: all
+  become: true
+  tasks:
+    - name: Ping my hosts
+      ansible.builtin.ping:
